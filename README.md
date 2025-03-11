@@ -15,7 +15,7 @@ Python – Data analysis and visualization
 Pandas – Data manipulation
 Matplotlib & Seaborn – Data visualization
 Power BI (optional) – Dashboard creation
-📊 Key Insights
+# 📊 Key Insights
 ✔️ Top 10 best-selling products
 ✔️ Sales trends by category
 ✔️ Customer demographics analysis
